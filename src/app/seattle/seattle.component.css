@@ -1,0 +1,23 @@
+h1{
+    margin-left: 44%;
+    margin-top: 60px;
+
+}
+
+#info{
+    margin-left: 30%;
+    margin-top: 15px;
+    display: inline-block;
+}
+
+#photo{
+    margin-top: 10px;
+    margin-left: 60px;
+    display: inline-block;
+}
+
+img{
+
+    height: 240px;
+    width: 240px;
+}
